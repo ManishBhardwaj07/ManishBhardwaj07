@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
+  
+# Hi, I'm Manish Bhardwaj 👨‍💻
 
-<!--
-**ManishBhardwaj07/ManishBhardwaj07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **AI/ML Engineer** transitioning to tech. Building real-world projects daily.
 
-Here are some ideas to get you started:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManishBhardwaj07)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 🚀 Currently Learning
+-  Python & Data Structures
+-  Git & GitHub
+-  SQL & Databases
+-  Machine Learning Fundamentals
+-  Intel AIML Course (Starting April 2026)
+
+
+## 🎯 Goals for 2026
+- Complete Intel AIML Certification
+- Build 10+ Python/ML projects
+- Land internship/placement in AI/ML or Data roles
+
+## 📍 Location
+Patna, Bihar, India
+
+
