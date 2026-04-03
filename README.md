@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Manish Bhardwaj 👨‍💻
+# Hi, I'm Manish Kumar 👨‍💻
 
 Aspiring **AI/ML Engineer** transitioning to tech. Building real-world projects daily.
 
@@ -11,12 +11,14 @@ Aspiring **AI/ML Engineer** transitioning to tech. Building real-world projects 
 </div>
 
 ## 🚀 Currently Learning
--  Python & Data Structures
--  Git & GitHub
--  SQL & Databases
--  Machine Learning Fundamentals
--  Intel AIML Course (Starting April 2026)
+- [x] Python & Data Structures
+- [x] Git & GitHub
+- [ ] SQL & Databases
+- [ ] Machine Learning Fundamentals
+- [ ] Intel AIML Course (Starting April 2026)
 
+## 📈 GitHub Stats
+![ManishBhardwaj07's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishBhardwaj07&show_icons=true&theme=radical&hide_border=true)
 
 ## 🎯 Goals for 2026
 - Complete Intel AIML Certification
@@ -25,5 +27,12 @@ Aspiring **AI/ML Engineer** transitioning to tech. Building real-world projects 
 
 ## 📍 Location
 Patna, Bihar, India
+
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishbhardwaj07/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavraj873@gmail.com)
+
+---
+
+⭐ **Star this repo to support my journey!**
 
 
