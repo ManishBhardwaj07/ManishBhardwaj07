@@ -17,8 +17,11 @@ Aspiring **AI/ML Engineer** transitioning to tech. Building real-world projects 
 - [ ] Machine Learning Fundamentals
 - [ ] Intel AIML Course (Starting April 2026)
 
-## 📈 GitHub Stats
-![ManishBhardwaj07's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishBhardwaj07&show_icons=true&theme=radical&hide_border=true)
+
+## 📊 GitHub Stats & Languages
+![ManishBhardwaj07's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishBhardwaj07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=ManishBhardwaj07&layout=compact&theme=radical&hide_border=true)
 
 ## 🎯 Goals for 2026
 - Complete Intel AIML Certification
