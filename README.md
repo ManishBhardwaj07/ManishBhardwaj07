@@ -19,9 +19,9 @@
 
 ---
 
-## ⚡ Who I Am
+##  Who I Am
 
-> Self-taught. Dropped out. Building anyway.
+> Intel AIML Program · Self-Taught · Building in Public
 
 I'm **Manish Kumar** from Patna, Bihar — training to become an AI/ML Engineer through the **Intel & IITM Pravartak Certified AI/ML Program**, a 6-month intensive co-certified by **Intel, AWS, and IIT Madras**.
 
@@ -49,41 +49,118 @@ No degree. No excuses. Just consistent work every single day.
 
 ---
 
-## 🚧 Projects
+<br/>
 
-> Starting from zero — first projects being built now. Watch this space.
+<h2>🚧 Projects</h2>
 
-| Project | Stack | Status |
-|---|---|---|
-| Python Fundamentals Exercises | Python | 🔨 Building now |
-| Data Analysis — Real Dataset | Python, Pandas, Seaborn | 🔜 Up next |
-| SQL Case Studies | SQL, PostgreSQL | 🔜 Coming |
-| ML Model from Scratch | Scikit-learn | 🔜 Coming |
-| Deep Learning Image Classifier | PyTorch | 🔜 Coming |
-| NLP Sentiment Analyser | Python, NLTK | 🔜 Coming |
-| LLM-Powered Chatbot | LangChain, OpenAI | 🔜 Coming |
-| RAG Q&A App | FAISS, LangChain | 🔜 Coming |
-| Deployed AI App | FastAPI, Docker, AWS | 🔜 Coming |
+> *Starting from zero — first projects being built now. Watch this space.*
+
+<br/>
+
+<table border="0" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><img src="https://img.shields.io/badge/🔨_Python_Fundamentals_Exercises-Python-C4430A?style=flat-square&labelColor=1a1a1a&color=C4430A"/></td>
+    <td><img src="https://img.shields.io/badge/Status-Building_Now-C4430A?style=flat-square&labelColor=1a1a1a&color=C4430A"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🔜_Data_Analysis_—_Real_Dataset-Python,_Pandas,_Seaborn-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+    <td><img src="https://img.shields.io/badge/Status-Up_Next-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🔜_SQL_Case_Studies-SQL,_PostgreSQL-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+    <td><img src="https://img.shields.io/badge/Status-Coming-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🔜_ML_Model_from_Scratch-Scikit--learn-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+    <td><img src="https://img.shields.io/badge/Status-Coming-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🔜_Deep_Learning_Image_Classifier-PyTorch-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+    <td><img src="https://img.shields.io/badge/Status-Coming-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🔜_NLP_Sentiment_Analyser-Python,_NLTK-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+    <td><img src="https://img.shields.io/badge/Status-Coming-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🔜_LLM--Powered_Chatbot-LangChain,_OpenAI-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+    <td><img src="https://img.shields.io/badge/Status-Coming-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🔜_RAG_Q%26A_App-FAISS,_LangChain-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+    <td><img src="https://img.shields.io/badge/Status-Coming-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🔜_Deployed_AI_App-FastAPI,_Docker,_AWS-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+    <td><img src="https://img.shields.io/badge/Status-Coming-555?style=flat-square&labelColor=1a1a1a&color=555"/></td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
-## 📈 Currently
-```text
-Program   →  Intel & IITM Pravartak AI/ML (Month 1 of 6)
-Focus     →  Python · Git · SQL · Data Analysis
-Building  →  Python Fundamentals repo
-Goal      →  Internship / Entry-level AI-ML role by end of 2026
-```
+<br/>
+
+<h2>⚡ Currently</h2>
+
+<br/>
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/PROGRAM-Intel_%26_IITM_Pravartak_AI%2FML_%7C_Month_1_of_6-C4430A?style=for-the-badge&labelColor=1a1a1a"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-Python_·_Git_·_SQL_·_Data_Analysis-C4430A?style=for-the-badge&labelColor=1a1a1a"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BUILDING-Python_Fundamentals_Repo-C4430A?style=for-the-badge&labelColor=1a1a1a"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GOAL-Internship_%2F_Entry--Level_AI--ML_Role_by_2026-C4430A?style=for-the-badge&labelColor=1a1a1a"/>
+
+</div>
+
+<br/>
 
 ---
-## ▫ About
+##  About
+<br/>
 
-| › Location | Patna, Bihar, India |
-|------------|---------------------|
-| › Path | Dropped out → Self-taught → AI/ML Engineer |
-| › Currently | Intel & IITM Pravartak AI/ML Program |
-| › Looking for | Internships · Entry-level roles · Collaborations |
-| › Motto | Build in public. Learn out loud. |
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="4" style="background:#C4430A;border-radius:4px;">&nbsp;</td>
+    <td width="16">&nbsp;</td>
+    <td>
+
+<h2>About Me</h2>
+
+> *Curiosity → Consistency → AI/ML Engineer in Progress*
+
+<br/>
+
+<table border="0" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><img src="https://img.shields.io/badge/📍_Location-Patna%2C_Bihar%2C_India-C4430A?style=flat-square&labelColor=1a1a1a&color=C4430A"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🎓_Program-Intel_%26_IITM_Pravartak_AI%2FML-C4430A?style=flat-square&labelColor=1a1a1a&color=C4430A"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🎯_Looking_For-Internships_·_Entry--Level_·_Collaborations-C4430A?style=flat-square&labelColor=1a1a1a&color=C4430A"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/💡_Motto-Build_in_Public._Learn_out_Loud.-C4430A?style=flat-square&labelColor=1a1a1a&color=C4430A"/></td>
+  </tr>
+</table>
+
+  </tr>
+</table>
+
+<br/>
 
 ---
 
