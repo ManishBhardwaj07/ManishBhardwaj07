@@ -1,10 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:FF6B35&height=200&section=header&text=Manish%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Building%20my%20path%20into%20AI%20%26%20ML%20%E2%80%94%20one%20project%20at%20a%20time&descAlignY=62&descSize=16" width="100%"/>
-
-</div>
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C4430A&height=180&section=header&text=Manish%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20in%20Progress&descAlignY=58&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B35&center=true&vCenter=true&width=620&lines=Self-taught+AI+%26+ML+Engineer+in+progress;Intel+%26+IITM+Pravartak+Certified+Program;Python+%7C+ML+%7C+Deep+Learning+%7C+GenAI;Building+in+public+%F0%9F%94%A5)](https://git.io/typing-svg)
 
@@ -38,8 +35,7 @@ No degree. No excuses. Just consistent work every single day.
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=FF6B35)
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=FF6B35)
 ![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=FF6B35)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=FF6B35)
-![VS Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=FF6B35)
+![VS Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=FF6B35)
 
 ### Learning Next
 ![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=FF6B35)
@@ -48,9 +44,8 @@ No degree. No excuses. Just consistent work every single day.
 ![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=for-the-badge&logo=pytorch&logoColor=FF6B35)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=FF6B35)
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=FF6B35)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=FF6B35)
 ![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=for-the-badge&logo=langchain&logoColor=FF6B35)
-![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=for-the-badge&logo=amazonaws&logoColor=FF6B35)
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=for-the-badge&logo=amazon-aws&logoColor=FF6B35)
 
 ---
 
@@ -73,25 +68,22 @@ No degree. No excuses. Just consistent work every single day.
 ---
 
 ## 📈 Currently
-
-| | |
-|---|---|
-| 📚 Program | Intel & IITM Pravartak AI/ML (Month 1 of 6) |
-| 🔍 Focus | Python · Git · SQL · Data Analysis |
-| 🔨 Building | Python Fundamentals repo |
-| 🎯 Goal | Internship / Entry-level AI-ML role by end of 2026 |
+```text
+Program   →  Intel & IITM Pravartak AI/ML (Month 1 of 6)
+Focus     →  Python · Git · SQL · Data Analysis
+Building  →  Python Fundamentals repo
+Goal      →  Internship / Entry-level AI-ML role by end of 2026
+```
 
 ---
+## ▫ About
 
-## 🙋 About
-
-| | |
-|---|---|
-| 📍 Location | Patna, Bihar, India |
-| 🚀 Path | Dropped out — Self-taught — AI/ML Engineer |
-| 🎓 Currently | Intel & IITM Pravartak AI/ML Program (Month 1 of 6) |
-| 🎯 Looking for | Internships · Entry-level roles · Collaborations |
-| 💬 Motto | Build in public. Learn out loud. |
+| › Location | Patna, Bihar, India |
+|------------|---------------------|
+| › Path | Dropped out → Self-taught → AI/ML Engineer |
+| › Currently | Intel & IITM Pravartak AI/ML Program |
+| › Looking for | Internships · Entry-level roles · Collaborations |
+| › Motto | Build in public. Learn out loud. |
 
 ---
 
