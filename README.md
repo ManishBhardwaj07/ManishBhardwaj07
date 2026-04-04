@@ -101,3 +101,81 @@ I'm not here to collect certificates. I'm here to **build things that work**.
 ---
 
 ## 🎯 Goals for 2026
+
+---
+
+## 📂 Projects
+
+> I'm at the very start of my journey. Projects are being built module by module.
+> **First project drops after Module 5 (Pandas + Data Analysis).**
+> Star this profile to follow along. ⭐
+
+| # | Project | Tech Used | Status |
+|---|---------|-----------|--------|
+| 01 | Python Fundamentals Exercises | Python | 🔨 Building |
+| 02 | Data Analysis with Pandas | Python, Pandas | 🔜 Coming soon |
+| 03 | SQL Case Studies | SQL, PostgreSQL | 🔜 Coming soon |
+| 04 | EDA on Real Dataset | Python, Pandas, Seaborn | 🔜 Coming soon |
+| 05 | ML Model from Scratch | Python, Scikit-learn | 🔜 Coming soon |
+| 06 | Deep Learning Classifier | PyTorch / TensorFlow | 🔜 Coming soon |
+| 07 | Sentiment Analyser (NLP) | Python, NLP, NLTK | 🔜 Coming soon |
+| 08 | LLM-Powered Chatbot | LangChain, OpenAI API | 🔜 Coming soon |
+| 09 | RAG-Based Q&A App | FAISS, LangChain, LLM | 🔜 Coming soon |
+| 10 | Deployed AI App on Cloud | FastAPI, Docker, AWS | 🔜 Coming soon |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ManishBhardwaj07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishBhardwaj07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishBhardwaj07&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+---
+
+## 🙋 About Me
+```python
+manish = {
+    "name"        : "Manish Kumar",
+    "location"    : "Patna, Bihar, India",
+    "path"        : "Self-taught → AI/ML Engineer",
+    "education"   : "Dropped out — building skills > collecting degrees",
+    "currently"   : "Intel & IITM Pravartak AI/ML Program (Month 1)",
+    "targeting"   : ["AI/ML Engineer", "Data Scientist", "Data Analyst"],
+    "open_to"     : ["Internships", "Entry-level roles", "Freelance projects"],
+    "superpower"  : "Turning confusion into clarity, one module at a time",
+    "motto"       : "Build in public. Learn out loud.",
+}
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishbhardwaj07/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManishBhardwaj07)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavraj873@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:4A3AFF&height=100&section=footer" width="100%"/>
+
+<sub>⭐ Star this profile to follow my journey from zero to AI/ML engineer — updating every week.</sub>
+
+</div>
