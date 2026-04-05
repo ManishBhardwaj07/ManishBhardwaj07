@@ -25,7 +25,7 @@
 
 I'm **Manish Kumar** from Patna, Bihar — training to become an AI/ML Engineer through the **Intel & IITM Pravartak Certified AI/ML Program**, a 6-month intensive co-certified by **Intel, AWS, and IIT Madras**.
 
-No degree. No excuses. Just consistent work every single day.
+The people who changed industries rarely had permission to enter them.
 
 ---
 
