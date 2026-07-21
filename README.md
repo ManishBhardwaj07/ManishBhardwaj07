@@ -63,8 +63,10 @@ I document my learning publicly and ship real, working code instead of tutorials
 ## GitHub Stats
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ManishBhardwaj07&show_icons=true&hide_border=true&bg_color=00000000&title_color=C44430&icon_color=C44430&text_color=ffffff&hide_rank=false"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishBhardwaj07&layout=compact&hide_border=true&bg_color=00000000&title_color=C44430&text_color=ffffff&langs_count=8"/>
+
+<img src="https://img.shields.io/github/followers/ManishBhardwaj07?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0A66C2" />
+<img src="https://komarev.com/ghpvc/?username=ManishBhardwaj07&color=0A66C2&style=for-the-badge&label=Profile+Views" />
+
 </div>
 
 <div align="center">
