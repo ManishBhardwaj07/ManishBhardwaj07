@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C44430&height=180&section=header&text=Manish%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C44430&height=180&section=header&text=Manish%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%26%20Automation%20Specialist&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=C44430&center=true&vCenter=true&width=650&lines=Self-taught+AI%2FML+Engineer+in+progress;Intel+%26+IITM+Pravartak+Certified+Program;Python+%7C+SQL+%7C+Deep+Learning+%7C+GenAI;Building+in+public%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=C44430&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+training;Building+AI+Automation+Systems+with+n8n+%2B+Claude+API;Currently+shipping%3A+GlowUp+AI;Python+%7C+SQL+%7C+Git+%7C+Pandas" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,15 +24,17 @@
 
 ## About Me
 
-I'm an aspiring AI/ML Engineer based in Patna, Bihar, India, currently training through the **Intel & IITM Pravartak Certified AI/ML Program** — co-certified by Intel, AWS, and IIT Madras.
+AI/ML Engineer in training, based in Patna, Bihar, India — currently going through the **Intel & IITM Pravartak Certified AI/ML Program** (co-certified by Intel, AWS, and IIT Madras).
 
-I document my learning publicly and ship real, working code instead of tutorials-only progress. My focus right now is building a solid foundation in Python, Git, and SQL before moving into the machine learning and deep learning stack. Every project in this repository roadmap is a step toward one goal: becoming a production-capable AI/ML engineer.
+Alongside the ML fundamentals, I build practical AI automation systems using **n8n** and the **Claude API** — connecting LLMs to real workflows rather than treating them as a chat window. Right now my main build is **GlowUp AI**, a Flutter-based app doing AI-powered grooming and style analysis from a photo.
+
+I log real progress, not tutorial completions. Skills below are marked by actual status, not aspiration.
 
 <br/>
 
 ## Tech Stack
 
-### Current Skills
+### Done
 
 <p>
   <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=C44430" />
@@ -41,10 +43,22 @@ I document my learning publicly and ship real, working code instead of tutorials
   <img src="https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=C44430" />
 </p>
 
-### Learning Roadmap
+### In Progress
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=C44430" />
+  <img src="https://img.shields.io/badge/Pandas-C44430?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### Automation Stack (in active use)
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-1a1a1a?style=for-the-badge&logo=n8n&logoColor=C44430" />
+  <img src="https://img.shields.io/badge/Claude%20API-1a1a1a?style=for-the-badge&logo=anthropic&logoColor=C44430" />
+</p>
+
+### Roadmap
+
+<p>
   <img src="https://img.shields.io/badge/NumPy-1a1a1a?style=for-the-badge&logo=numpy&logoColor=C44430" />
   <img src="https://img.shields.io/badge/Scikit--learn-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=C44430" />
   <img src="https://img.shields.io/badge/PyTorch-1a1a1a?style=for-the-badge&logo=pytorch&logoColor=C44430" />
@@ -57,6 +71,22 @@ I document my learning publicly and ship real, working code instead of tutorials
   <img src="https://img.shields.io/badge/Generative%20AI-1a1a1a?style=for-the-badge&logo=openai&logoColor=C44430" />
   <img src="https://img.shields.io/badge/AWS-1a1a1a?style=for-the-badge&logo=amazonaws&logoColor=C44430" />
 </p>
+
+<br/>
+
+## Currently Building
+
+<div align="center">
+
+### GlowUp AI
+
+**AI-powered grooming & style analysis app — Flutter + Supabase**
+
+*Private repo · Active development*
+
+</div>
+
+GlowUp AI takes a user's photo and returns AI-driven grooming/style recommendations, built as a subscription product. Stack includes Flutter, Supabase (Postgres, Auth, Edge Functions), Google Auth, RevenueCat, PostHog, and Sentry.
 
 <br/>
 
@@ -75,32 +105,14 @@ I document my learning publicly and ship real, working code instead of tutorials
 
 <br/>
 
-## Projects Roadmap
-
-| # | Project | Domain | Status |
-|---|---------|--------|--------|
-| 1 | Python Fundamentals | Core Programming | 🔄 In Progress |
-| 2 | Data Analysis | Pandas / NumPy | ⏳ Planned |
-| 3 | SQL Case Studies | Database & Querying | ⏳ Planned |
-| 4 | Machine Learning | Scikit-learn | ⏳ Planned |
-| 5 | Deep Learning | PyTorch / TensorFlow | ⏳ Planned |
-| 6 | NLP | Text Processing | ⏳ Planned |
-| 7 | LLM Chatbot | Generative AI | ⏳ Planned |
-| 8 | RAG Application | Retrieval-Augmented Generation | ⏳ Planned |
-| 9 | FastAPI Deployment | Backend / API | ⏳ Planned |
-| 10 | Docker | Containerization | ⏳ Planned |
-| 11 | AWS Deployment | Cloud | ⏳ Planned |
-
-<br/>
-
 ## Current Focus
 
 <p>
   <img src="https://img.shields.io/badge/Program-Intel%20%26%20IITM%20Pravartak%20AI%2FML-1a1a1a?style=for-the-badge&labelColor=C44430&color=1a1a1a" />
   <br/>
-  <img src="https://img.shields.io/badge/Current%20Focus-Python%20%2B%20Git%20%2B%20SQL-1a1a1a?style=for-the-badge&labelColor=C44430&color=1a1a1a" />
+  <img src="https://img.shields.io/badge/Learning-Pandas-1a1a1a?style=for-the-badge&labelColor=C44430&color=1a1a1a" />
   <br/>
-  <img src="https://img.shields.io/badge/Building-Python%20Fundamentals%20Repo-1a1a1a?style=for-the-badge&labelColor=C44430&color=1a1a1a" />
+  <img src="https://img.shields.io/badge/Building-GlowUp%20AI-1a1a1a?style=for-the-badge&labelColor=C44430&color=1a1a1a" />
   <br/>
   <img src="https://img.shields.io/badge/Goal-AI%2FML%20Engineer%20Role-1a1a1a?style=for-the-badge&labelColor=C44430&color=1a1a1a" />
 </p>
@@ -110,26 +122,6 @@ I document my learning publicly and ship real, working code instead of tutorials
 ## Certifications
 
 - 🎓 **Intel & IITM Pravartak AI/ML Program** — *In Progress*
-- 🎓 **AWS Cloud Practitioner** — *Planned*
-
-<br/>
-
-## Featured Repositories
-
-| Repository | Description | Status |
-|-------------|--------------|--------|
-| [Python_Mastery](https://github.com/ManishBhardwaj07/Python_Mastery) | Core Python concepts, exercises, and fundamentals | 🔄 In Progress |
-| Machine_Learning | Classical ML models and case studies | 🚧 Coming Soon |
-| Data_Analysis | Real-dataset analysis with Pandas & NumPy | 🚧 Coming Soon |
-| Deep_Learning | Neural networks with PyTorch / TensorFlow | 🚧 Coming Soon |
-| SQL_Case_Studies | Applied SQL querying and database problems | 🚧 Coming Soon |
-| Portfolio | Consolidated project showcase | 🚧 Coming Soon |
-
-<br/>
-
-## Learning Philosophy
-
-> "Discipline compounds faster than talent — I show up, log the work, and let the commits speak."
 
 <br/>
 
@@ -141,8 +133,9 @@ I document my learning publicly and ship real, working code instead of tutorials
 |---|---|
 | 📍 **Location** | Patna, Bihar, India |
 | 🎓 **Program** | Intel & IITM Pravartak Certified AI/ML Program |
-| 🔭 **Looking For** | AI/ML Engineer opportunities & real-world project collaboration |
-| 💬 **Motto** | Learning in public, building in real time |
+| 🛠️ **Building** | GlowUp AI — AI grooming/style app (Flutter + Supabase) |
+| ⚙️ **Automation Work** | n8n + Claude API — AI-driven workflow systems |
+| 🔭 **Looking For** | AI/ML Engineer opportunities |
 
 </div>
 
@@ -155,9 +148,3 @@ I document my learning publicly and ship real, working code instead of tutorials
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C44430,100:1a1a1a&height=120&section=footer"/>
-
-<div align="center">
-
-**Learning in Public • Building Real Projects • One Commit at a Time**
-
-</div>
