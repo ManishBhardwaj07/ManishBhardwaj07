@@ -74,19 +74,9 @@ I log real progress, not tutorial completions. Skills below are marked by actual
 
 <br/>
 
-## Currently Building
 
-<div align="center">
 
-### GlowUp AI
 
-**AI-powered grooming & style analysis app — Flutter + Supabase**
-
-*Private repo · Active development*
-
-</div>
-
-GlowUp AI takes a user's photo and returns AI-driven grooming/style recommendations, built as a subscription product. Stack includes Flutter, Supabase (Postgres, Auth, Edge Functions), Google Auth, RevenueCat, PostHog, and Sentry.
 
 <br/>
 
